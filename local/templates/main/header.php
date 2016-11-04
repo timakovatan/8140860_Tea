@@ -121,26 +121,26 @@
         <ul class="pagination">
             <li class="active">
                 <a href="#">
-                    <strong class="title title01">Start</strong>
-                    <span>Pellentesque fermentum neque vel nisl auctor eget tincidunt mi.</span>
+                    <strong class="title title01">Старт</strong>
+                    <span> Какие бывают сорта китайского чая?</span>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <strong class="title title02">Step 2</strong>
-                    <span>Cum sociis natoque penatibus et magnis dis parturient montes.</span>
+                    <strong class="title title02">Шаг 2</strong>
+                    <span>Как и какой выбрать китайский чай?</span>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <strong class="title title03">Step 3</strong>
-                    <span>Fusce porttitor, diam id accumsan porta, enim sem varius.</span>
+                    <strong class="title title03">Шаг 3</strong>
+                    <span>Как правильно заваривать чай?</span>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <strong class="title title04">Finish!</strong>
-                    <span>Pellentesque fermentum neque vel nisl auctor eget tincidunt.</span>
+                    <strong class="title title04">Финиш</strong>
+                    <span>Чайные наборы для новичков.</span>
                 </a>
             </li>
         </ul>
@@ -158,9 +158,22 @@
                     </div>
                     <div class="text-box">
                         <h2>Synoptic is premium PSD template!</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed condimentum turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultrices condimentum vestibulum. Phasellus dictum, dolor et gravida tempor, ante enim eleifend erat, id ullamcorper eros augue in metus. </p>
-                        <p>Sed fringilla dui id ante volutpat ut pellentesque lacus semper. Duis laoreet congue consectetur. Aliquam volutpat scelerisque dui ac fringilla. Praesent et volutpat urna. Sed ipsum dolor, dapibus a ultrices a, pellentesque eget metus. Vestibulum eu nisl sed massa sodales mollis. </p>
-                        <p>Morbi posuere, mauris at tempor semper, ligula sem scelerisque turpis, ac interdum orci urna sit amet enim. Morbi posuere ultricies dapibus. Nam eget turpis in mi consequat aliquet. Phasellus a felis libero, non aliquet lorem. Praesent accumsan magna nec ipsum euismod et tempus neque auctor.</p>
+                        <p><b>Белый или бай ча 白茶</b><br>
+                            лучший чай для летней жары и активного образа жизни – освежающий и легкий, с тонким вкусом и нежным, цветочным ароматом. Не подвергается воздействию высоких температур, поэтому сохраняет максимальное количество полезных веществ.</p>
+                        <p><b>Желтый или хуан ча 黄茶</b><br>
+                            изысканный и томный, с дымной ноткой и привкусом парного молока. Для искушенного гурмана и любителя экзотики. Это один из самых редких и дорогих видов чая даже в Поднебесной. Оригинальная технология его производства в течение нескольких веков оставалась тайной. </p>
+                        <p><b>Зеленый или люй ча 绿茶</b><br>
+                            самый популярный и любимый на своей родине, в Китае. Технология обработки, отшлифованная веками, помноженная на трудолюбие потомственных чаеводов, рождает по-настоящему драгоценный продукт, обладающий «четырьмя совершенствами»: безупречной формой, прозрачным настоем, густым ароматом и свежим вкусом.</p>
+                        <p><b>Улун ча  烏龍茶 (сильно-ферментированный улун)</b><br>
+                            его аромат чист и прекрасен, вкус крепок и глубок, раскрывается постепенно, поэтому пить его следует медленно, не спеша смакуя каждый маленький глоток.</p>
+                        <p><b>Бирюзовый или цин ча 青茶 (слабо-ферментированный улун)</b><br>
+                            чай-праздник – оптимистический, эмоциональный, яркий, переливающийся игрой множества великолепных оттенков вкуса и аромата. Пробуждает желание жить, чувствовать и творить.</p>
+                        <p><b>Красный или хун ча 红茶</b><br>
+                            чай для сырой и холодной погоды, минорных состояний и душевного разлада. В его великолепный вкус и аромат можно закутаться, как в теплый плед, и ощутить прилив внутреннего тепла, мягкой тишины, гармонии с собой и окружающим миром.</p>
+                        <p><b>Черный или хэй ча黑茶</b><br>
+                            простой и крепкий, немного брутальный, с мягким вкусом и выдержанным, глубоким ароматом. Букет черного чая плотный, с ореховыми, винными, ягодными, древесными, иногда землистыми нотками.</p>
+                        <p><b>Пуэр ча 普洱茶</b><br>
+                            мощный природный энергетик с ярким, сочным вкусом и тонизирующим воздействием.</p>
                         <a href="#" class="more">Read more…</a>
                     </div>
                 </li>

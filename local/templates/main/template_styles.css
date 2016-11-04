@@ -401,8 +401,8 @@ q:after{content:"";}
     overflow:hidden;
 }
 .welcome-box .text-box h2{
-    margin:0 0 14px;
-    font-size:28px;
+    margin:0 0 10px;
+    font-size:24px;
     line-height:22px;
     color:#2e3536;
 }
@@ -564,7 +564,7 @@ q:after{content:"";}
 .pagination .active a span{color:#545c5f;}
 #steps-slider .container {
     width:900px;
-    height:330px;
+    height:575px;
     overflow:hidden;
     position:relative;
     cursor:pointer;
