@@ -110,7 +110,7 @@
 <div class="promo-wrap">
     <div class="promo-box">
         <div class="promo-holder">
-            <strong class="promo-text">Konnichiwa &amp; Welcome! You don't know how it work?</strong>
+            <strong class="promo-text">Hihao &amp; Здравствуйте! Не знаете с чего начать?</strong>
             <a href="#steps-slider" class="btn-take ancLinks">Take a tour right now!</a>
         </div>
     </div>
@@ -154,62 +154,62 @@
             <ul class="slides">
                 <li>
                     <div class="image">
-                        <img class="large" src="<?=SITE_TEMPLATE_PATH;?>/images/bg-image02.gif" alt="image description" width="275" height="307" />
+                        <img class="large" src="<?=SITE_TEMPLATE_PATH;?>/images/bg-image021.png" alt="image description" width="371" height="570" />
                     </div>
                     <div class="text-box">
-                        <h2>Synoptic is premium PSD template!</h2>
-                        <p><b>Белый или бай ча 白茶</b><br>
-                            лучший чай для летней жары и активного образа жизни – освежающий и легкий, с тонким вкусом и нежным, цветочным ароматом. Не подвергается воздействию высоких температур, поэтому сохраняет максимальное количество полезных веществ.</p>
-                        <p><b>Желтый или хуан ча 黄茶</b><br>
-                            изысканный и томный, с дымной ноткой и привкусом парного молока. Для искушенного гурмана и любителя экзотики. Это один из самых редких и дорогих видов чая даже в Поднебесной. Оригинальная технология его производства в течение нескольких веков оставалась тайной. </p>
-                        <p><b>Зеленый или люй ча 绿茶</b><br>
-                            самый популярный и любимый на своей родине, в Китае. Технология обработки, отшлифованная веками, помноженная на трудолюбие потомственных чаеводов, рождает по-настоящему драгоценный продукт, обладающий «четырьмя совершенствами»: безупречной формой, прозрачным настоем, густым ароматом и свежим вкусом.</p>
-                        <p><b>Улун ча  烏龍茶 (сильно-ферментированный улун)</b><br>
-                            его аромат чист и прекрасен, вкус крепок и глубок, раскрывается постепенно, поэтому пить его следует медленно, не спеша смакуя каждый маленький глоток.</p>
-                        <p><b>Бирюзовый или цин ча 青茶 (слабо-ферментированный улун)</b><br>
-                            чай-праздник – оптимистический, эмоциональный, яркий, переливающийся игрой множества великолепных оттенков вкуса и аромата. Пробуждает желание жить, чувствовать и творить.</p>
-                        <p><b>Красный или хун ча 红茶</b><br>
-                            чай для сырой и холодной погоды, минорных состояний и душевного разлада. В его великолепный вкус и аромат можно закутаться, как в теплый плед, и ощутить прилив внутреннего тепла, мягкой тишины, гармонии с собой и окружающим миром.</p>
-                        <p><b>Черный или хэй ча黑茶</b><br>
-                            простой и крепкий, немного брутальный, с мягким вкусом и выдержанным, глубоким ароматом. Букет черного чая плотный, с ореховыми, винными, ягодными, древесными, иногда землистыми нотками.</p>
-                        <p><b>Пуэр ча 普洱茶</b><br>
+                        <h2>The diversity of Chinese teas. выфвфы</h2>
+                        <p align="justify"><b>Белый или бай ча 白茶</b><br>
+                            лучший чай для летней жары и активного образа жизни – освежающий и легкий.</p>
+                        <p align="justify"><b>Желтый или хуан ча 黄茶</b><br>
+                            изысканный и томный, с дымной ноткой и привкусом парного молока.</p>
+                        <p align="justify"><b>Зеленый или люй ча 绿茶</b><br>
+                            драгоценный продукт, обладающий «четырьмя совершенствами»: безупречной формой, прозрачным настоем, густым ароматом и свежим вкусом.</p>
+                        <p align="justify"><b>Улун ча  烏龍茶 (сильно-ферментированный улун)</b><br>
+                            его аромат чист и прекрасен, вкус крепок и глубок, раскрывается постепенно.</p>
+                        <p align="justify"><b>Бирюзовый или цин ча 青茶 (слабо-ферментированный улун)</b><br>
+                            чай-праздник – яркий, переливающийся игрой множества великолепных оттенков вкуса и аромата.</p>
+                        <p align="justify"><b>Красный или хун ча 红茶</b><br>
+                            чай для сырой и холодной погоды, минорных состояний и душевного разлада. </p>
+                        <p align="justify"><b>Черный или хэй ча黑茶</b><br>
+                            простой и крепкий, немного брутальный, с мягким вкусом и выдержанным, глубоким ароматом.</p>
+                        <p align="justify"><b>Пуэр ча 普洱茶</b><br>
                             мощный природный энергетик с ярким, сочным вкусом и тонизирующим воздействием.</p>
                         <a href="#" class="more">Read more…</a>
                     </div>
                 </li>
                 <li>
                     <div class="text-box">
-                        <h2>Synoptic is premium PSD template!</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed condimentum turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultrices condimentum vestibulum. Phasellus dictum, dolor et gravida tempor, ante enim eleifend erat, id ullamcorper eros augue in metus. </p>
-                        <p>Sed fringilla dui id ante volutpat ut pellentesque lacus semper. Duis laoreet congue consectetur. Aliquam volutpat scelerisque dui ac fringilla. Praesent et volutpat urna. Sed ipsum dolor, dapibus a ultrices a, pellentesque eget metus. Vestibulum eu nisl sed massa sodales mollis. </p>
-                        <p>Morbi posuere, mauris at tempor semper, ligula sem scelerisque turpis, ac interdum orci urna sit amet enim. Morbi posuere ultricies dapibus. Nam eget turpis in mi consequat aliquet. Phasellus a felis libero, non aliquet lorem. Praesent accumsan magna nec ipsum euismod et tempus neque auctor.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed condimentum turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultrices condimentum vestibulum. Phasellus dictum, dolor et gravida tempor, ante enim eleifend erat, id ullamcorper eros augue in metus. </p>
-                        <p>Sed fringilla dui id ante volutpat ut pellentesque lacus semper. Duis laoreet congue consectetur. Aliquam volutpat scelerisque dui ac fringilla. Praesent et volutpat urna. Sed ipsum dolor, dapibus a ultrices a, pellentesque eget metus. Vestibulum eu nisl sed massa sodales mollis. </p>
-                        <p>Morbi posuere, mauris at tempor semper, ligula sem scelerisque turpis, ac interdum orci urna sit amet enim. Morbi posuere ultricies dapibus. Nam eget turpis in mi consequat aliquet. Phasellus a felis libero, non aliquet lorem. Praesent accumsan magna nec ipsum euismod et tempus neque auctor.</p>
+                        <h2>Acquaintance to the Chinese teas.</h2>
+                        <p align="justify">Для тех, кто только начинает знакомство с коллекционными сортами, мы рекомендуем взять на пробу несколько позиций из ценовой категории 100-900 рублей за 100 гр., которые большинство интернет-магазинов, занимающихся продажей китайского чая, позиционируют как "элитный китайский чай". Мы не пользуемся такой терминологией ввиду ее сомнительной рекламной специфики, хотя в сравнении с чаем из супермаркета он действительно представляет качественно более высокий уровень. Это по-настоящему хороший чай, собранный и приготовленный вручную, из хорошего сырья, купленный непосредственно у производителя и бережно доставленный в наш чайный магазин. Кроме того, наши бюджетные чаи просты в заваривании и не требуют особых навыков чайного мастерства, для первого знакомства с китайской чайной традицией они идеально подходят. </p>
+                        <p align="justify">Тому, кто уже получил представление о видах и сортах настоящего китайского чая и набрался необходимого опыта во взаимодействии с ним, открывается широчайший простор для совершенствования своих познаний и гастрономических пристрастий в ценовой категории 900-2900 рублей за 100 гр. Дорогой чай из Китая стоимостью 2900 рублей за 100 и выше предполагает развитые навыки «чайного мастерства», чтобы оценить его по достоинству.  </p>
+                        <p align="justify">Ввиду довольно необычного воздействия высокосортного китайского чая и его способности объединять людей не только физически, но и духовно, вокруг чайного дела сформировался некий ареол "эзотеризма". Люди, пропагандирующие такой подход, смещают акценты в область тонких материй, зачастую теряя при этом здравый смысл и прагматичную сторону  чаепития.</p>
                         <a href="#" class="more">Read more…</a>
                     </div>
                 </li>
                 <li>
                     <div class="image-left">
-                        <img class="large" src="<?=SITE_TEMPLATE_PATH;?>/images/bg-image02.gif" alt="image description" width="275" height="307" />
+                        <img class="large" src="<?=SITE_TEMPLATE_PATH;?>/images/bg-image023.png" alt="image description" width="275" height="307" />
                     </div>
                     <div class="text-box">
-                        <h2>Synoptic is premium PSD template!</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed condimentum turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultrices condimentum vestibulum. Phasellus dictum, dolor et gravida tempor, ante enim eleifend erat, id ullamcorper eros augue in metus. </p>
-                        <p>Sed fringilla dui id ante volutpat ut pellentesque lacus semper. Duis laoreet congue consectetur. Aliquam volutpat scelerisque dui ac fringilla. Praesent et volutpat urna. Sed ipsum dolor, dapibus a ultrices a, pellentesque eget metus. Vestibulum eu nisl sed massa sodales mollis. </p>
-                        <p>Morbi posuere, mauris at tempor semper, ligula sem scelerisque turpis, ac interdum orci urna sit amet enim. Morbi posuere ultricies dapibus. Nam eget turpis in mi consequat aliquet. Phasellus a felis libero, non aliquet lorem. Praesent accumsan magna nec ipsum euismod et tempus neque auctor.</p>
+                        <h2>Taste depends on trifles!</h2>
+                        <p align="justify">Как правильно заваривать чай, написано много. Но чайная процедура сложна, а хочется выпить чашечку хорошего чая, затратив на приготовление несколько минут.</p>
+                        <p align="justify">Конечно, заваренный по всем канонам чайных церемоний с использованием специальной посуды и соблюдением различных правил,  чай получается очень вкусным. Если есть возможность, стоит иногда посещать места, где можно попробовать настоящий изумительный напиток.</p>
+                        <p align="justify">Но у большинства из нас нет ни условий, ни времени повторить подобную процедуру дома, а побаловать себя любимым напитком хотелось бы.</p>
+                        <p align="justify">Знатоков прошу особо не придираться. Нас ведь много таких, живущих в местах, где нет чайных клубов, чай мы покупаем в небольших магазинах или через интернет, набор посуды тоже в дефиците, разве что привезешь из отпуска. Но если мы знаем, как правильно заваривать чай, то можем максимально соблюсти необходимые условия.</p>
+                        <p align="justify">Попробуем упростить процесс приготовления без особых потерь в качестве и постараемся правильно заваривать чай.</p>
+                        <p align="justify">Итак, вкус полученного напитка будет зависеть от качества воды, ее температуры, используемой посуды, дозировки сухого чая и собственно самого заваривания.</p>
                         <a href="#" class="more">Read more…</a>
                     </div>
                 </li>
                 <li>
                     <div class="image">
-                        <img class="large" src="<?=SITE_TEMPLATE_PATH;?>/images/bg-image02.gif" alt="image description" width="275" height="307" />
+                        <img class="large" src="<?=SITE_TEMPLATE_PATH;?>/images/bg-image024.png" alt="image description" width="275" height="307" />
                     </div>
                     <div class="text-box">
-                        <h2>Synoptic is premium PSD template!</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed condimentum turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultrices condimentum vestibulum. Phasellus dictum, dolor et gravida tempor, ante enim eleifend erat, id ullamcorper eros augue in metus. </p>
-                        <p>Sed fringilla dui id ante volutpat ut pellentesque lacus semper. Duis laoreet congue consectetur. Aliquam volutpat scelerisque dui ac fringilla. Praesent et volutpat urna. Sed ipsum dolor, dapibus a ultrices a, pellentesque eget metus. Vestibulum eu nisl sed massa sodales mollis. </p>
-                        <p>Morbi posuere, mauris at tempor semper, ligula sem scelerisque turpis, ac interdum orci urna sit amet enim. Morbi posuere ultricies dapibus. Nam eget turpis in mi consequat aliquet. Phasellus a felis libero, non aliquet lorem. Praesent accumsan magna nec ipsum euismod et tempus neque auctor.</p>
+                        <h2>Tea sets</h2>
+                        <p align="justify">Чайные наборы - незаменимая вещь для чаепития. Древние традиции чайных церемоний со временем далеко распространились за пределы Китая и Японии – откуда они пошли изначально. Чаепитие в разных странах мира приобрело свою национальную окраску. Неизменной осталась только суть церемонии: создание атмосферы взаимного уважения, гармоничных отношений между людьми. Это способствует спокойному общению между ними и установлению доверительных отношений. Незаменимой вещью при этом является чайный набор. </p>
+                        <p align="justify">Как подобрать чайный набор? Набор чайной посуды должен отвечать событию, количество предметов задавать стиль чаепития. Чайные наборы, имеющие яркие тона, вызовут симпатии у большой компании, они будут приковывать пристальные взгляды ваших гостей. </p>
+                        <p align="justify">Естественно, количество предметов в наборах должно быть равным или превышать численность членов семьи. Лучше купить большой чайный набор, чтобы гости, родственники, которые время от времени посещают ваш дом, смогли вместе с вами за приятной беседой почувствовать аромат и вкус чая.</p>
                         <a href="#" class="more">Read more…</a>
                     </div>
                 </li>

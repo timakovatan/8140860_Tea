@@ -1,7 +1,7 @@
 body {
     margin:0;
     color:#545c5f;
-    font:12px "Trebuchet MS", Helvetica, sans-serif;
+    font:12px "Trebuchet MS", Gabriola, sans-serif;
     background:#dfe6e9;
     min-width:1000px;
 }
@@ -16,7 +16,7 @@ a {
 }
 a:hover {text-decoration:underline;}
 input, textarea, select {
-    font:100% "Trebuchet MS", Helvetica, sans-serif;
+    font:100% "Trebuchet MS", Gabriola, sans-serif;
     vertical-align:middle;
     color:#626667;
     outline:none;
@@ -460,13 +460,9 @@ q:after{content:"";}
     overflow:hidden;
 }
 .promo-box .promo-text{
-    float:left;
-    background: url(images/text-welcome.png) no-repeat;
-    width: 590px;
-    height: 23px;
-    text-indent:-9999px;
-    overflow:hidden;
-    margin-top:6px;
+    font-size: 30px;
+    margin:10px;
+    font-family: Gabriola;
 }
 .promo-box .btn-take{
     float:right;
@@ -564,7 +560,7 @@ q:after{content:"";}
 .pagination .active a span{color:#545c5f;}
 #steps-slider .container {
     width:900px;
-    height:575px;
+    height:460px;
     overflow:hidden;
     position:relative;
     cursor:pointer;

@@ -73,8 +73,8 @@
     </div>
     <div class="copy-wrap">
         <div class="copy-holder">
-            <span class="copy">Copyright &copy; Synoptic 2010. All Rights Reserved</span>
-            <a href="#" class="design">made by puzz1e</a>
+            <span class="copy">Copyright &copy; Chadao 2016. All Rights Reserved</span>
+            <a href="#" class="design">made by Tanya C: </a>
         </div>
     </div>
 </div>
